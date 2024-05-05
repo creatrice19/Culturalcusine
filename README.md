@@ -5,11 +5,11 @@ Introducing the Cultural Recipe Exchange Platform, a digital haven where culinar
 
 Installation:
 1. Clone the repository to your local machine
-   https://github.com/Narsimhareddy28/recepie.git
+   https://github.com/creatrice19/Culturalcusine.git
 2. Navigate to the project directory:
    cd recepie
 3. Install dependencies using npm:
-   mpm install 
+   npm install 
 
 MongoDB Setup:
 
